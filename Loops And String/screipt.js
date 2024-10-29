@@ -12,7 +12,7 @@
 // }
 
 
-// CALCULATE SM OF 1 TO 5
+// CALCULATE SuM OF 1 TO 5
 // let sum=0;
 // for(let i=1; i<=5; i++){
 //     sum=sum+i;//1+2+3+4+5=15

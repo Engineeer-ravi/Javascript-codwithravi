@@ -3,8 +3,8 @@
 // console.log(str2[1]);
 
 //Template Litrels
-// let specialString ='this is a template litrels ${1+2+3+4}';
-// console.log( specialString);
+let specialString =`this is a template litrels ${1+2+3+4}`;
+console.log( specialString);
 
 // let obj ={
 //     item:"pen",
