@@ -40,6 +40,6 @@ console.log( specialString);
 // let str='RaviPAtahk';
 // console.log(str.replace("R","A"))
 
-//chardecter find out
+//charecter find out
 // let str="ILoveJs";
 // console.log(str.charAt(5));
