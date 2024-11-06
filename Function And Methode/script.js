@@ -28,12 +28,26 @@
 // function sum(a,b){
 //     return a+b;
 
-//}
-const arrowSum=(a,b) =>{
-    console.log(a+b);
-};
-//multiplication funcion
-const arrowMul=(a,b) =>{
-    console.log(a*b);
+// //}
+// const arrowSum=(a,b) =>{
+//     console.log(a+b);
+// };
+// //multiplication funcion
+// const arrowMul=(a,b) =>{
+//     console.log(a*b);
 
-};
+// };
+
+
+
+// Methode forEach  loop in Arrays
+//forEach=callback Function
+// let arr =[1,2,3,4,5,6];
+// arr.forEach(function printVal(val){
+//     console.log(val);
+
+// });
+ let arr =["pune", "delhi" ,"mmumbai", "chenai", "banglore", "gurgaon"];
+     arr.forEach((val ,idx,arr)=>{
+        console.log(val.toUpperCase() ,idx,arr);
+     });
