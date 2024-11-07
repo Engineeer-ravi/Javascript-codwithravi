@@ -47,7 +47,7 @@
 //     console.log(val);
 
 // });
- let arr =["pune", "delhi" ,"mmumbai", "chenai", "banglore", "gurgaon"];
+ let arr =["RAVI", "DELHI" ,"MUMBAI", "CHENAI", "BANGLORE", "GURGAON"];
      arr.forEach((val ,idx,arr)=>{
-        console.log(val.toUpperCase() ,idx,arr);
+        console.log(val.toLowerCase() ,idx,arr);
      });
